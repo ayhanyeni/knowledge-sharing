@@ -1,0 +1,12 @@
+/home/ayhan/projects/others/Jobs/io/knowledge/src/main/java/io/intake/ayhan/knowledge/KnowledgeRepository.java
+/home/ayhan/projects/others/Jobs/io/knowledge/src/main/java/io/intake/ayhan/configuration/ErrorHandlingControllerAdvice.java
+/home/ayhan/projects/others/Jobs/io/knowledge/src/main/java/io/intake/ayhan/KnowledgeApplication.java
+/home/ayhan/projects/others/Jobs/io/knowledge/src/main/java/io/intake/ayhan/knowledge/KnowledgeDataFileLoader.java
+/home/ayhan/projects/others/Jobs/io/knowledge/src/main/java/io/intake/ayhan/auth/TokenController.java
+/home/ayhan/projects/others/Jobs/io/knowledge/src/main/java/io/intake/ayhan/knowledge/KnowledgeService.java
+/home/ayhan/projects/others/Jobs/io/knowledge/src/main/java/io/intake/ayhan/knowledge/pojo/KnowledgeInfo.java
+/home/ayhan/projects/others/Jobs/io/knowledge/src/main/java/io/intake/ayhan/exception/ItemNotFoundException.java
+/home/ayhan/projects/others/Jobs/io/knowledge/src/main/java/io/intake/ayhan/knowledge/pojo/KnowledgeForm.java
+/home/ayhan/projects/others/Jobs/io/knowledge/src/main/java/io/intake/ayhan/configuration/WebSecurityConfiguration.java
+/home/ayhan/projects/others/Jobs/io/knowledge/src/main/java/io/intake/ayhan/knowledge/KnowledgeController.java
+/home/ayhan/projects/others/Jobs/io/knowledge/src/main/java/io/intake/ayhan/entity/Knowledge.java

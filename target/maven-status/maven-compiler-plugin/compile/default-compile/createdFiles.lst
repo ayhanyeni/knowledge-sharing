@@ -1,0 +1,15 @@
+io/intake/ayhan/KnowledgeApplication.class
+io/intake/ayhan/entity/Knowledge$KnowledgeBuilder.class
+io/intake/ayhan/knowledge/pojo/KnowledgeInfo.class
+io/intake/ayhan/entity/Knowledge.class
+io/intake/ayhan/knowledge/KnowledgeController.class
+io/intake/ayhan/knowledge/KnowledgeRepository.class
+io/intake/ayhan/knowledge/pojo/KnowledgeForm.class
+io/intake/ayhan/knowledge/pojo/KnowledgeInfo$KnowledgeInfoBuilder.class
+io/intake/ayhan/knowledge/KnowledgeService.class
+io/intake/ayhan/configuration/ErrorHandlingControllerAdvice.class
+io/intake/ayhan/knowledge/KnowledgeDataFileLoader.class
+io/intake/ayhan/knowledge/pojo/KnowledgeForm$KnowledgeFormBuilder.class
+io/intake/ayhan/auth/TokenController.class
+io/intake/ayhan/configuration/WebSecurityConfiguration.class
+io/intake/ayhan/exception/ItemNotFoundException.class
