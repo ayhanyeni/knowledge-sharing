@@ -1,4 +1,4 @@
-# ACME Knowledge Sharing Platform Project
+# Knowledge Sharing Platform Project
 The purpose of this project is to provide a knowledge sharing platform.
 
 In the current version TED talks listed in a csv file are shared.
